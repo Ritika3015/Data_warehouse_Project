@@ -73,7 +73,7 @@ Empower business stakeholders with **actionable metrics** for strategic decision
 ---
 
 ## 📂 Repository Structure  
-
+```text
 data-warehouse-project/
 │
 ├── datasets/ # Raw datasets (ERP & CRM)
